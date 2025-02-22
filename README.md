@@ -1,10 +1,10 @@
-📂 Dataset Description
+# 📂 Dataset Description
 
 This repository contains a dataset related to movie genre preferences based on age and gender. The dataset is structured in CSV format (.csv) and can be used for data analysis and visualization.
 
-🎬 Dataset Details
+## 🎬 Dataset Details
 
-1️⃣ Movie Interests Dataset (Movie Interests.csv)
+# 1️⃣ Movie Interests Dataset (Movie Interests.csv)
 
 File Format: CSV (.csv)Total Records: 18Columns:
 
@@ -14,7 +14,7 @@ Gender → Gender of the individual (Male/Female)
 
 Interest → Preferred movie genre (e.g., Animation, Action)
 
-📊 Usage
+# 📊 Usage
 
 This dataset can be used for:
 
