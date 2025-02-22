@@ -1,9 +1,25 @@
-### Machine Learning Project on Movie Interests Dataset Using the Decision Tree Algorithm
+📂 Dataset Description
 
-### About Dataset
+This repository contains a dataset related to movie genre preferences based on age and gender. The dataset is structured in CSV format (.csv) and can be used for data analysis and visualization.
 
-This dataset contains information about movie interests based on age and gender. It can be used for analyzing movie preferences among different demographics. The columns in the dataset are as follows:
+🎬 Dataset Details
 
-1. Age - Age of the individual.
-2. Gender - Gender of the individual (Male/Female).
-3. Interest - Movie genre preference (e.g., Animation, Action, Drama).
+1️⃣ Movie Interests Dataset (Movie Interests.csv)
+
+File Format: CSV (.csv)Total Records: 18Columns:
+
+Age → Age of the individual (integer)
+
+Gender → Gender of the individual (Male/Female)
+
+Interest → Preferred movie genre (e.g., Animation, Action)
+
+📊 Usage
+
+This dataset can be used for:
+
+Analyzing movie preferences by age and gender.
+
+Building recommendation systems based on demographics.
+
+Data visualization and trend analysis.
